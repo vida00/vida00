@@ -1,16 +1,25 @@
-### Hi there 👋
+# Seja Bem-Vindo ao meu perfil! :milky_way:
 
-<!--
-**vida00/vida00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FOLLOW-ME <3
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=vida00&style=flat-square)
+
+
+### :coffee: Contato?
+
+<p>
+    <a href="https://t.me/kanuic">
+        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=kanuic"/>
+    </a>
+</p>
+
+<hr>
+
+<p align="center">
+    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=vida00&theme=material-palenight&show_icons=true">
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vida00&hide=html&layout=compact&theme=material-palenight">
+</p>
+
+
