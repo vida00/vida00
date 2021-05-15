@@ -5,14 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=vida00&style=flat-square)
 
 
-### ♔ Contato?
-
-<p>
-    <a href="https://t.me/kanuic">
-        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=kanuic"/>
-    </a>
-</p>
-
 <hr>
 
 <p align="center">
