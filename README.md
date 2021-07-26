@@ -7,7 +7,6 @@
 <hr>
 
 <p align="center">
-    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=vida00&theme=dark&show_icons=true">
     <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vida00&hide=html&layout=compact&theme=dark">
 </p>
 
